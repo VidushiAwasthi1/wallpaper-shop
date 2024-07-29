@@ -38,10 +38,14 @@ section {
 }
 
 .product {
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 10px;
+    text-align: center;
     width: 30%;
+}
+
+.product img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
 }
 
 footer {
@@ -50,3 +54,4 @@ footer {
     background: #333;
     color: white;
 }
+
